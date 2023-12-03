@@ -1028,7 +1028,62 @@ CLASS NOTES: 36
 	2. Reverse 'k' element in a queue ⭐
 	3. Interleave first and second half of a queue
 	4. First negative integer in every window of 'k' ⭐
-	5. Sliding Window Maximum (Leetcode-239)
+
+```
+
+</details>
+
+<details>
+  <summary>WEEK 12 TOPIC: Queue - Class 03</summary>
+
+```bash
+
+CLASS NOTES: 37
+	1. First Non Repeating/Unique Character in a String (Leetcode-387)
+	2. Gas Station (Leetcode-134)
+	3. Sliding Window Maximum (Leetcode-239)
+
+HOMEWORK NOTES: 37
+	1. Implement Queue using Stack
+	2. Implement Stacks using Queue
+	3. Implement "K" queues in an array
+	4. Sum of min/max element of all subarray of size "k"
+	5. Number of Recent Calls
+	6. First Unique Character in a String
+	7. Number of People Aware of a Secret
+	8. Maximum Sum Circular Subarray
+	9. Find the Winner of the Circular Game
+	10. Reveal Cards In Increasing Order
+	11. Product of the Last K Numbers
+	12. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit
+	13. Delivering Boxes from Storage to Ports
+
+```
+
+</details>
+
+<details>
+  <summary>WEEK 13 TOPIC: Binary Tree - Class 01</summary>
+
+```bash
+CLASS NOTES: 38
+	1. What is a binary tree
+	2. Terms of binary tree
+	3. Implementation of binary tree
+	4. Three binary tree traversals
+		I. Pre-order traversal
+		II. In order traversal
+		III. Post order traversal
+	5. Level order traversal in a line
+	6. Level order traversal in level wise
+	7. Height of a binary tree (Leetcode-104)
+	8. Diameter of binary tree (Leetcode-543)
+
+HOMEWORK NOTES: 38
+	1. Generics tree
+	2. READ ARTICLE: Skew tree
+	3. READ ARTICLE: BFS and DFS Algorithm
+	4. READ ARTICLE: Complete and perfect binary tree
 
 ```
 
